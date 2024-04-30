@@ -12,4 +12,3 @@ this version of Mario, if feeling more comfortable https://cs50.harvard.edu/coll
 Submit one of:
 Cash, if feeling less comfortable https://cs50.harvard.edu/college/2023/fall/psets/1/cash/
 Credit, if feeling more comfortable https://cs50.harvard.edu/college/2023/fall/psets/1/credit/
-Submit this form.
